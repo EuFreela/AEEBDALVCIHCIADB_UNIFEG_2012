@@ -26,6 +26,7 @@
   <li>4. Para demais integrações da interface IHC se faz necessário especialistas e o uso de pessoas para testarem - por isso será realizado em outras versões. A Drª em IHC me cobrou isso</li>
   <li>5. Atualmente utilizamos os modelos baseados em IHC sendo o UX/UI os quais focam no usuário. Isso facilitaria o uso de pessoas e documentos para conclusão de algumas etapas até a intrgração direta com IHC</li>
   <li>Não existe atraso no frame para comparação com o template. O que existe é um numero reduzido de templates a serem comparados com a imagem real. Os templates foram pré-processados para otimização de leitura sem estourar a memória. Devido a esse motivo, se faz necessário que a distancia entre o ROI e a mão sejam 80% equivalentes e o mesmo para a posição. A RNA resolveria isso, mas, precisará de um computador melhor do que o qual usei para este projeto</li>
+  <li>Este trablho foi inédito até a sua apresentação. O que não era necessário para um trabalho de bacharelado</li>
 </o>
 
 <br>
