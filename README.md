@@ -28,6 +28,8 @@
   <li>Não existe atraso no frame para comparação com o template. O que existe é um numero reduzido de templates a serem comparados com a imagem real. Os templates foram pré-processados para otimização de leitura sem estourar a memória. Devido a esse motivo, se faz necessário que a distancia entre o ROI e a mão sejam 80% equivalentes e o mesmo para a posição. A RNA resolveria isso, mas, precisará de um computador melhor do que o qual usei para este projeto</li>
 </o>
 
+<br>
+
 <p>Pois é, parece a memória não estoura (buffer over flow) Doutora</p>
 <a href="https://www.youtube.com/embed/eWH9EMVnhlo"><img src="https://s13.postimg.org/pmcqguoaf/Sem_t_tulo.png" width="600" height="400"></a>
 
