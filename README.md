@@ -17,7 +17,7 @@
 
 <p>O Ms. Lucas Ximenes me disse que alguns alunos gostariam de continuar as implementações porém, encontram dificiuldades para as configurações necessárias e para conseguir um build no código. Por isso eu estou disponibilizando acesso a ele nos aquivos do git. Se quiser continuar fique a vontade. Sugiro que passe o sistema para rede neural criando os pesos que serão usados nos demais projetos.</p>
 <br>
-<p>Pois é, parece a memória não estoura Doutora</p>
+<p>Pois é, parece a memória não estoura (buffer over flow) Doutora</p>
 <a href="https://www.youtube.com/embed/eWH9EMVnhlo"><img src="https://s13.postimg.org/pmcqguoaf/Sem_t_tulo.png" width="600" height="400"></a>
 
 
