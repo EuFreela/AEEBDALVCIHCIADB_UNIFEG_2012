@@ -13,7 +13,7 @@
 
 <p>O trabalho pode ser lido aqui: <a href="https://lameckfernandes.files.wordpress.com/2016/10/com12-lsfernandes.pdf">DESENVOLVIMENTO DE UM SOFTWARE PARA AUXÍLIO À EDUCAÇÃO DE DEFICIENTES AUDITIVOS: ALFABETIZAÇÃO BILÍNGUE ATRAVÉS DE MÉTODOS DE IHC E VISÃO COMPUTACIONAL</a></p>
 
-<p>Se quiser aprender openCV, de uma maneira educativa, basta entrar no meu blog: <a href="http://novos-cientistas.blogspot.com.br/2012/03/desenvolvimento-de-sistemas_07.html"></a></p>
+<p>Se quiser aprender openCV, de uma maneira "bem educativa", basta entrar no meu blog: <a href="http://novos-cientistas.blogspot.com.br/2012/03/desenvolvimento-de-sistemas_07.html">OpenCv na prática</a></p>
 
 <p>O Ms. Lucas Ximenes me disse que alguns alunos gostariam de continuar as implementações porém, encontram dificiuldades para as configurações necessárias e para conseguir um build no código. Por isso eu estou disponibilizando acesso a ele nos aquivos do git. Se quiser continuar fique a vontade. Sugiro que passe o sistema para rede neural criando os pesos que serão usados nos demais projetos.</p>
 <br>
