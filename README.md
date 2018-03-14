@@ -20,7 +20,7 @@
 
 ### Características que devem ser consideradas:
 <o>
-  <li>1. Se trata de um protótipo de um sistema e não definitivamente o sistema final. A metodologia para desenvolvimento desse sistema respeita o modelo espiral a entrega de resultados por sprints de 4 semanas. Até chegar a este resultado foram 12 sprints (1 ano)</li>
+  <li>1. Se trata do protótipo de um sistema e não definitivamente o sistema final. A metodologia para desenvolvimento desse sistema respeita o modelo espiral a entrega de resultados por sprints de 4 semanas. Até chegar a este resultado foram 12 sprints (1 ano)</li>
   <li>2. A cada interação uma nova interface é criada. Como o problema neste protótipo é a luz, foi criado um controle sobre a imagem real para ser comparada com o template.</li>
   <li>3. LIBRAS não se limita apenas a um alfabeto datilológico, mas, nesse projeto foi a proposta para iniciar o sistema com reconhecimento de padrões. Como se trata de etapas a serem cumpridas esta fase foi de extrema importancia principalmente devido ao tempo escasso para entrega do projeto para conclusão de curso</li>
   <li>4. Para demais integrações da interface IHC se faz necessário especialistas e o uso de pessoas para testarem - por isso será realizado em outras versões. A Drª em IHC me cobrou isso</li>
