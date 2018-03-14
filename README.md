@@ -25,8 +25,9 @@
   <li>3. LIBRAS não se limita apenas a um alfabeto datilológico, mas, nesse projeto foi a proposta para iniciar o sistema com reconhecimento de padrões. Como se trata de etapas a serem cumpridas esta fase foi de extrema importancia principalmente devido ao tempo escasso para entrega do projeto para conclusão de curso</li>
   <li>4. Para demais integrações da interface IHC se faz necessário especialistas e o uso de pessoas para testarem - por isso será realizado em outras versões. A Drª em IHC me cobrou isso</li>
   <li>5. Atualmente utilizamos os modelos baseados em IHC sendo o UX/UI os quais focam no usuário. Isso facilitaria o uso de pessoas e documentos para conclusão de algumas etapas até a intrgração direta com IHC</li>
-  <li>Não existe atraso no frame para comparação com o template. O que existe é um numero reduzido de templates a serem comparados com a imagem real. Os templates foram pré-processados para otimização de leitura sem estourar a memória. Devido a esse motivo, se faz necessário que a distancia entre o ROI e a mão sejam 80% equivalentes e o mesmo para a posição. A RNA resolveria isso, mas, precisará de um computador melhor do que o qual usei para este projeto</li>
-  <li>Este trablho foi inédito até a sua apresentação. O que não era necessário para um trabalho de bacharelado</li>
+  <li>6. Não existe atraso no frame para comparação com o template. O que existe é um numero reduzido de templates a serem comparados com a imagem real. Os templates foram pré-processados para otimização de leitura sem estourar a memória. Devido a esse motivo, se faz necessário que a distancia entre o ROI e a mão sejam 80% equivalentes e o mesmo para a posição. A RNA resolveria isso, mas, precisará de um computador melhor do que o qual usei para este projeto</li>
+  <li>7. Este trablho foi inédito até a sua apresentação. O que não era necessário para um trabalho de bacharelado</li>
+  <li>8. Além de tudo que disse, para preparar o ambiente, basta iluminar bem o objeto que neste cas é sua mão. Para isso apague a luz e use uma lampada de escrivaninha mirada em sua mão de gestos. Lembrando que este problema eu ja resolvi em versões posteriores com uso de hardware (sensores inflavermelho e profundidade e um processador na câmera)</li>
 </o>
 
 <br>
