@@ -33,7 +33,7 @@
 <br>
 
 <p>Pois é, parece a memória não estoura (buffer over flow) Doutora</p>
-<a href="https://www.youtube.com/embed/eWH9EMVnhlo"><img src="https://s13.postimg.org/pmcqguoaf/Sem_t_tulo.png" width="600" height="400"></a>
+<a href="https://www.youtube.com/embed/eWH9EMVnhlo"><img src="https://s13.postimg.cc/pmcqguoaf/Sem_t_tulo.png" width="600" height="400"></a>
 
 
 
